@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', init);
 
 function init() {
 
-  // function to display horn image and set audio
+  // display horn image and set audio
   const hornSelect = document.getElementById("horn-select");
   hornSelect.addEventListener('change', function() {
     // display correct image
