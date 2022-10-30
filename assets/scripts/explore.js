@@ -49,6 +49,7 @@ function init() {
     }
     synth.speak(utterThis);
 
+    // change face while speaking
     utterThis.addEventListener('start', (event) => {
       face.src = "assets/images/smiling-open.png";
     });
