@@ -2,4 +2,6 @@
 Nikhil Rao
 Isaac Varela
 
-https://github.com/nikhilitis/introduction-to-github
+[Continuous Integration](https://github.com/nikhilitis/introduction-to-github)
+
+[GitHub Pages Site](https://nikhilitis.github.io/Lab5_Starter/expose.html)
